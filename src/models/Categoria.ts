@@ -35,3 +35,6 @@ Categoria.init(
     timestamps: true
   }
 );
+
+
+
